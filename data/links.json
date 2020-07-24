@@ -15155,6 +15155,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 117 期）：我不想让你记住我的脸",
+        "link": "http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html",
+        "date": "2020-07-24"
+      },
+      {
         "title": "苹果放弃英特尔芯片，为什么会打击美国计算机产业？",
         "link": "http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html",
         "date": "2020-07-22"
@@ -16525,6 +16530,71 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "618前端竞品分析研究（互动篇）",
+        "link": "https://aotu.io/notes/2020/07/21/618-what-taobao-do/",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "移动端吸顶导航组件的实现",
+        "link": "https://aotu.io/notes/2020/07/16/mobile-top-nav/",
+        "date": "2020-07-16"
+      },
+      {
+        "title": "如何使用Grid Layout",
+        "link": "https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/",
+        "date": "2020-07-14"
+      },
+      {
+        "title": "京喜前端自动化测试之路(小程序篇)",
+        "link": "https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "Taro 3 正式版发布：开放式跨端跨框架解决方案",
+        "link": "https://aotu.io/notes/2020/06/30/taro-3-0-0/",
+        "date": "2020-07-01"
+      },
+      {
+        "title": "手把手教你写个小程序定时器管理库",
+        "link": "https://aotu.io/notes/2020/06/22/timer-miniprogram/",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "图形处理：给 Canvas 文本填充线性渐变",
+        "link": "https://aotu.io/notes/2020/06/22/linearGradient/",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "向强大的SVG迈进",
+        "link": "https://aotu.io/notes/2020/06/09/strong-svg/",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "前端也要懂物理 —— 惯性滚动篇",
+        "link": "https://aotu.io/notes/2020/06/08/momentum-scrolling/",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "从 SQL 到 MongoDB 之聚合篇",
+        "link": "https://aotu.io/notes/2020/06/07/sql-to-mongo-2/",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "从 SQL 到 MongoDB 之概念篇",
+        "link": "https://aotu.io/notes/2020/06/07/sql-to-mongo-1/",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "Taro 3.0 RC：React/Vue/Nerv 任你选",
+        "link": "https://aotu.io/notes/2020/05/25/taro-3-rc/",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "一个学习 Koa 源码的例子",
+        "link": "https://aotu.io/notes/2020/05/18/koa-demo/",
+        "date": "2020-05-19"
+      },
       {
         "title": "大规格文件的上传优化",
         "link": "https://aotu.io/notes/2020/05/12/file-upload/",

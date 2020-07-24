@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-24 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-24 11:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -215,6 +215,7 @@
 - [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 
 - [2018-08-31-【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685) 
 - [2018-07-26-【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629) 
+- [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/) 
 - [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
